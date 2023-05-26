@@ -37,7 +37,7 @@ export default function HomePage({
                   className='mb-8 md:text-4xl text-[#555] dark:text-[#bbb] text-3xl'
                   data-fade='1'
                 >
-                  超逸の博客
+                  欢迎来到 SXK 的世界
                 </Accent>
                 <p
                   className={clsxm(
@@ -46,8 +46,7 @@ export default function HomePage({
                   )}
                   data-fade='1'
                 >
-                  Hey, I am Chocolate, the 21st front-end development, currently
-                  moving bricks in a large factory.
+                  人是要整活的
                 </p>
                 <p
                   className={clsxm(
@@ -56,7 +55,7 @@ export default function HomePage({
                   )}
                   data-fade='3'
                 >
-                  JS, TS, LeetCode, Vue, React, algorithm lovers.
+                  没活了那不就
                 </p>
                 <hr
                   className='mx-auto md:my-[2em] h-0 w-[50px] border-t-[1px] border-[#7d7d7d4d] my-[1em]'
@@ -69,9 +68,7 @@ export default function HomePage({
                   )}
                   data-fade='3'
                 >
-                  After experiencing high school life, I understand that
-                  "fortunately, the cold window has been bitter for several
-                  years, and since then there are many warm springs"
+                  死
                 </p>
                 <p
                   className={clsxm(
@@ -80,9 +77,7 @@ export default function HomePage({
                   )}
                   data-fade='3'
                 >
-                  And through college life, I understand that "learning is like
-                  sailing against the current, if you don't advance, you will
-                  retreat".
+                  了
                 </p>
                 <p
                   className={clsxm(
@@ -91,8 +86,7 @@ export default function HomePage({
                   )}
                   data-fade='3'
                 >
-                  The dream is to become a person with a certain influence,
-                  sweat with blood, and create the future with positivity!
+                  吗
                 </p>
                 <hr
                   className='mx-auto md:my-[2em] h-0 w-[50px] border-t-[1px] border-[#7d7d7d4d] my-[1em]'
