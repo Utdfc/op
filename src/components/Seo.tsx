@@ -4,8 +4,8 @@ import { useRouter } from 'next/router';
 import { openGraph } from '@/lib/helper';
 
 const defaultMeta = {
-  title: '超逸の博客',
-  siteName: '超逸の博客',
+  title: 'SXKの博客',
+  siteName: 'SXKの博客',
   description:
     'Chocolate 个人博客，JS，TS，LeetCode，Vue，React，算法爱好者。座右铭：学如逆水行舟，不进则退！',
   keywords: 'Next.js,React,Vue3,Blog,前端,b站up主',

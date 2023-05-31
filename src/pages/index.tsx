@@ -53,20 +53,20 @@ export default function HomePage({
                     'mt-6  text-[#555] dark:text-[#bbb]',
                     'lg:text-xl text-left text-lg'
                   )}
-                  data-fade='3'
+                  data-fade='2'
                 >
-                  没活了那不就
+                  没活了，那不就
                 </p>
                 <hr
                   className='mx-auto md:my-[2em] h-0 w-[50px] border-t-[1px] border-[#7d7d7d4d] my-[1em]'
-                  data-fade='4'
+                  data-fade='1'
                 />
                 <p
                   className={clsxm(
                     'mt-6  text-[#555] dark:text-[#bbb]',
                     'lg:text-xl text-left text-lg'
                   )}
-                  data-fade='3'
+                  data-fade='1'
                 >
                   死
                 </p>
@@ -75,7 +75,7 @@ export default function HomePage({
                     'mt-6  text-[#555] dark:text-[#bbb]',
                     'lg:text-xl text-left text-lg'
                   )}
-                  data-fade='3'
+                  data-fade='1'
                 >
                   了
                 </p>
@@ -84,7 +84,7 @@ export default function HomePage({
                     'mt-6  text-[#555] dark:text-[#bbb]',
                     'lg:text-xl text-left text-lg'
                   )}
-                  data-fade='3'
+                  data-fade='1'
                 >
                   吗
                 </p>
