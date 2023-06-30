@@ -99,30 +99,30 @@ export default function HomePage({
                   )}
                   data-fade='4'
                 >
-                  Find me on
+                  优秀的网站大全在这里哦！
                   <div className='lg:my-4 my-2 gap-4 flex flex-wrap items-center'>
-                    <CustomLink href='https://github.com/Chocolate1999'>
+                    <CustomLink href='http://www.996dm.com/'>
                       <div className='flex items-center gap-1'>
                         <SiGithub />
-                        GitHub
+                        动漫视频网站
                       </div>
                     </CustomLink>
-                    <CustomLink href='https://www.youtube.com/@chocolate1999'>
+                    <CustomLink href='https://www.klbzxw.fit/'>
                       <div className='flex items-center gap-1'>
                         <SiYoutube />
-                        YouTube
+                        大型游戏网站
                       </div>
                     </CustomLink>
-                    <CustomLink href='https://space.bilibili.com/351534170'>
+                    <CustomLink href='https://www.zhuayuya.com/'>
                       <div className='flex items-center gap-1'>
                         <SiBilibili />
-                        Bilibili
+                        摸鱼网站
                       </div>
                     </CustomLink>
-                    <CustomLink href='https://twitter.com/ycyChocolate'>
+                    <CustomLink href='https://wallhaven.cc/?f=s5t.com'>
                       <div className='flex items-center gap-1'>
                         <SiTwitter />
-                        Twitter
+                        好看的壁纸网站
                       </div>
                     </CustomLink>
                   </div>
@@ -135,8 +135,8 @@ export default function HomePage({
                   )}
                   data-fade='4'
                 >
-                  Motto: Learning is like sailing against the current, if you
-                  don't advance, you will retreat!
+                  在这里，没有你找不到的，只有你想不到的。
+                  座右铭：开心就好！
                 </p>
 
                 <div data-fade='5' className='mt-4 flex'>
@@ -146,7 +146,7 @@ export default function HomePage({
                       trackEvent('Home: Read blogs', { type: 'navigate' })
                     }
                   >
-                    To Blog
+                    下一个
                   </CustomLink>
                   <CustomLink
                     href='/projects'
@@ -155,7 +155,7 @@ export default function HomePage({
                       trackEvent('Home: See more project', { type: 'navigate' })
                     }
                   >
-                    To Projects
+                    下下一个
                   </CustomLink>
                 </div>
               </div>
@@ -170,7 +170,7 @@ export default function HomePage({
             >
               <article className='layout' data-fade='0'>
                 <h2 className='text-2xl md:text-4xl' id='blog'>
-                  <Accent>Featured Posts</Accent>
+                  <Accent>简单介绍</Accent>
                 </h2>
                 <ul className='mt-4 grid gap-4 sm:grid-cols-2 xl:grid-cols-3'>
                   {populatedPosts.map((post, i) => (
@@ -188,7 +188,7 @@ export default function HomePage({
                     trackEvent('Home: See more post', { type: 'navigate' })
                   }
                 >
-                  See more post
+                  要开心哦
                 </ButtonLink>
               </article>
             </section>
