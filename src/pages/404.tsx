@@ -18,13 +18,13 @@ export default function NotFoundPage() {
               className='drop-shadow-glow animate-flicker text-red-500'
             />
             <h1 className='md:text-6xl mt-8 text-4xl dark:text-neutral-200'>
-              Page Not Found
+              你小子迷路了吧。啊哈哈，大家快来看啊，有个吊毛迷路了！
             </h1>
             <ArrowLink
               className='md:text-lg mt-4 dark:text-neutral-200'
               href='/'
             >
-              Back to Home
+              点我回家啊！
             </ArrowLink>
           </div>
         </section>
